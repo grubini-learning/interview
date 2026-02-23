@@ -12,9 +12,7 @@ Personally, I’m very curious and have a strong growth mindset. Outside of work
 
 ### Short version
 
-====================================================================
 I’m a front‑end‑leaning full‑stack engineer with about eight years of experience, most recently as a software architect at McKesson working on event‑driven pipelines, microservices, and React dashboards for large‑scale B2B e‑commerce. Before that I was at Microsoft, where I managed a React component library and led the development of accessible, well‑tested web components in close collaboration with PM, design, and other engineers. Earlier at Principal Financial Group I worked on an investment portfolio application, strengthening my cross‑team communication and mentoring while diving into backend work to be more helpful. At smaller companies like DesignUX and DSB Mobile I wore many hats—product, engineering, analysis—which gave me empathy for different disciplines and constraints. I’m a curious engineer with a strong growth mindset, and in my free time I read tech articles, watch talks, and build side projects to explore new technologies and learn from my mistakes.
-=====================================================================
 
 ### Cover Letter
 
