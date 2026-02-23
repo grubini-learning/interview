@@ -1,36 +1,26 @@
 ## Tell me about yourself?
 
-I bring eight years of industry experience to the table, and in my recent role at Microsoft, I spearheaded the web component efforts. This entailed extensive research on options like LIT and the implementation of a robust foundation through agile iterations, utilizing a tech stack that included TypeScript, Vite, LIT, Open WC, CEM, Storybook, and more. Additionally, I played a pivotal role in managing a React Component library, overseeing planning, and estimating for new features. Contributing to a support rotation, I provided guidance using a toolkit that involved React, React Router, Jest, React Testing Library, Context API, Vite, Storybook, and more.
+I’m a full‑stack / front‑end‑leaning engineer with about eight years of industry experience, most recently working as a software architect at McKesson on large‑scale B2B e‑commerce.
 
-Before joining Microsoft, I was with Principal Financial Group, where I maintained an application in XSLT and backbone.js. My responsibilities included fostering cross-team communication for achieving OKRs, offering mentorship, and providing backend support with Spring Boot and PostgreSQL. Notably, I initiated a successful port from XSLT to React after thorough research and presentation.
+At McKesson, I worked on event‑driven data pipelines and microservices that kept product, pricing, and order data in sync across the platform for tens of thousands of healthcare customers. I helped improve data sync latency and API performance, and I also contributed to the customer‑facing React dashboards using React Query and Testing Library. Day to day, I collaborated closely with a distributed team, wrote documentation so others could debug and onboard faster, and participated in sprint reviews where I’d question architectural and UI decisions to keep the system maintainable and user‑friendly.
 
-In a previous experience at DesignUX, I took on multiple roles in implementing a React Native mobile application. I led architectural design, employing Redux and SQLite to enable offline support in areas with limited wifi. This experience showcased my organizational skills in meeting the diverse needs of stakeholders.
+Before that, at Microsoft, I managed a React component library in partnership with PM, design, and engineering, and I led the effort to build out a set of accessible, well‑tested web components. That role really sharpened my skills in planning and estimation, cross‑functional collaboration, and building reusable UI foundations at scale.
 
-My journey began at DSB Mobile, where I developed React Native applications, exploring technologies like Firebase, GoogleMaps, GraphQL, and React Router. A standout project during this time was the collaborative creation of an e-commerce application called Cosmetique. We strategically separated the application into microservices, and I took charge of product showcasing. To meet specific requirements, we made informed technological decisions,  Express server with JWT for authentication with Bcrypt  and opting for Cassandra DB due to its fast response times. I also created a proxy server deployed using AWS EC2 instances with load balancing strategies, extensively tested for optimal performance using tools like Relic.io and Google PageSpeed.
+Earlier in my career, at Principal Financial Group, I worked on a fintech app for viewing and modifying investment portfolios, which pushed me to improve cross‑team communication and even dive into backend work to be more helpful. And at smaller companies like DesignUX and DSB Mobile, I wore many hats—product, engineering, analysis—which was stressful but fun and gave me empathy for different disciplines and constraints.
 
-Each morning or the previous night, I plan my day by considering task priorities, urgency, and time complexity. I utilize the Pomodoro technique to time-box and tackle various tasks throughout the day. I perform code reviews for my teammates and provide clarifications as needed, often resolving issues with a quick call. Additionally, I attend a daily standup to provide updates and assist in unblocking any teammates when necessary. Typically, I focus on various tasks simultaneously, understanding the issues, examining the reproduction steps, identifying the sources of problems, and breaking down the issues into manageable phases. I separate these phases into branches checked out from the latest master and perform small commits to facilitate easier code reviews later. As I complete these tasks, I ensure any necessary testing is conducted, update snapshots if required, and add comments in the PRs I create to guide my teammates on areas that may need clarification.
+Personally, I’m very curious and have a strong growth mindset. Outside of work I like to read tech articles, watch talks, and build side projects to explore new technologies. I enjoy learning from mistakes, and I’m happiest on teams where people share that mindset and push each other to grow.
 
-Throughout my career, I've actively pursued cutting-edge technologies in my side projects, ranging from React Query, React Tool Kit, GraphQL with Apollo Client, Apollo Server, Express GraphQL, Angular, Node, MongoDB to exploring deployment platforms like Netlify and Vercel.
+### Short version
 
-============================================================================================================================
+====================================================================
+I’m a front‑end‑leaning full‑stack engineer with about eight years of experience, most recently as a software architect at McKesson working on event‑driven pipelines, microservices, and React dashboards for large‑scale B2B e‑commerce. Before that I was at Microsoft, where I managed a React component library and led the development of accessible, well‑tested web components in close collaboration with PM, design, and other engineers. Earlier at Principal Financial Group I worked on an investment portfolio application, strengthening my cross‑team communication and mentoring while diving into backend work to be more helpful. At smaller companies like DesignUX and DSB Mobile I wore many hats—product, engineering, analysis—which gave me empathy for different disciplines and constraints. I’m a curious engineer with a strong growth mindset, and in my free time I read tech articles, watch talks, and build side projects to explore new technologies and learn from my mistakes.
+=====================================================================
 
-# Across eight years in the industry, with notable experiences at Microsoft, Principal Financial Group, CollaborateMD, DesignUX, and DSB Mobile, I've demonstrated expertise in spearheading web component initiatives, managing React Component libraries, maintaining medical software with Angular, and deploying diverse applications using technologies such as LIT, React Native, Redux, and GraphQL. At Microsoft, I led agile iterations to establish robust web component foundations, managed React Component libraries, and provided support with tools like Typescript, Vite, Storybook, Jest, and React Testing Library. Previous roles involved maintaining applications in XSLT and backbone.js, leading architectural designs for React Native apps, and developing e-commerce solutions with microservices architecture, utilizing Firebase, Cassandra DB, and AWS EC2. Committed to ongoing growth, I've explored React Query, GraphQL, and deployment platforms like Netlify and Vercel in side projects. I believe this varied experience positions me well for this role, and given the chance I will be a real asset to the team and to the company as a whole.
+### Cover Letter
 
-# I am deeply committed to lifelong learning, keeping up to date with bleeding edge technologies, continuously evolving through my experiences and mistakes. My curiosity drives me to explore my own work and understand the roles of others, with a focus on organization, performance, collaboration, communication, problem-solving, and synergy. I strive to enhance both my own success and happiness, as well as that of others, by constantly seeking ways to improve. This dedication brings me immense personal fulfillment and a rewarding sense of purpose through my craft. Across eight years in the industry, with notable experiences at Microsoft, Principal Financial Group, CollaborateMD, DesignUX, and DSB Mobile, I've demonstrated expertise in spearheading web component initiatives, managing React Component libraries, maintaining medical software with Angular, and deploying diverse applications using technologies such as LIT, React Native, Redux, and GraphQL. At Microsoft, I led agile iterations to establish robust web component foundations, managed React Component libraries, and provided support with tools like Typescript, Vite, Storybook, Jest, and React Testing Library. Previous roles involved maintaining applications in XSLT and backbone.js, leading architectural designs for React Native apps, and developing e-commerce solutions with microservices architecture, utilizing Firebase, Cassandra DB, and AWS EC2. Committed to ongoing growth, I've explored React Query, GraphQL, and deployment platforms like Netlify and Vercel in side projects. I believe this varied experience positions me well for this role, and given the chance I will be a real asset to the team and to the company as a whole.
+I'm enthusiastic about joining a team that shares my values and delving into engaging technologies to tackle new challenges. I believe in the importance of taking ownership, providing candid feedback, uplifting the team to achieve success, and leaving the world a better place than I found it. If I can contribute to others' happiness and fulfillment through my work, that would be immensely rewarding. I'm eager to leverage my experience to contribute meaningfully to the team and the company as a whole.
 
-# I'm eager to tackle fresh challenges and join a team where I can make a meaningful contribution. My aim is to analyze and address any potential pain points within the company, offering innovative solutions to streamline processes and enhance efficiency for all team members. I'm dedicated to personal and professional growth, and I'm seeking an environment that fosters continuous development. Above all, I value a supportive and collaborative workplace culture that celebrates every achievement, no matter how small.
-
-# I am a very curious person with a growth mindset. During my free time, I read articles (Medium, Tumblr), watch talks, and create side projects on tech that I want to learn or new things that have come out. I love being able to be creative, see how everything comes to life, and how other people utilize it as a tool to succeed in their industry just brings me a sense of self-fulfillment that is why am passionate about engineering. The forever learner who looks at every mistake as an opportunity and grows with like-minded people.
-
-I'm eagerly looking forward to joining a team that shares my values of collaboration and community engagement. My aim is to analyze and address any potential pain points within the company, offering innovative solutions to streamline processes and enhance efficiency for all team members. I'm dedicated to personal and professional growth, and I'm seeking an environment that fosters continuous development of the entire team. Above all, I value a supportive and collaborative workplace culture that celebrates every achievement, no matter how small.
-
-As someone who has personally navigated through financial challenges, I understand the trials and tribulations they entail. It's essential to me that the organizations I align with have a core mission centered around helping others. Particularly within the sphere of personal finance, I get immense satisfaction and fulfillment. I am eager to contribute to a team that prioritizes bringing stability to people's lives and empowering them, as well as their families, to build a brighter tomorrow.
-
-I'm enthusiastic about joining a team that shares my values and delving into engaging technologies to tackle new challenges. I believe in the importance of keeping up with advancements, especially in financial realms, and if I can contribute to others' happiness and fulfillment through my work, that would be immensely rewarding. I'm eager to leverage my experience to contribute meaningfully to the team and the company as a whole.
-
-**I'm enthusiastic about joining a team that shares my values and delving into engaging technologies to tackle new challenges. I believe in the importance of taking ownership, providing candid feedback, uplifting the team to achieve success, and leaving the world a better place than I found it. If I can contribute to others' happiness and fulfillment through my work, that would be immensely rewarding. I'm eager to leverage my experience to contribute meaningfully to the team and the company as a whole.**
-
-Working remotely for the past four years has taught me the importance of planning your day, week, or month to maximize effectiveness. This approach offers significant opportunities for growth and self-motivation, making the experience highly rewarding.
+Working remotely for the past 6 years has taught me the importance of planning your day, week, or month to maximize effectiveness. This approach offers significant opportunities for growth and self-motivation, making the experience highly rewarding.
 
 I'm excited about the prospect of joining a team that shares my values and diving into innovative technologies to tackle fresh challenges. I firmly believe in staying abreast of advancements and swiftly adopting new tools to benefit others in their respective industries. The fulfillment derived from such endeavors would be immensely rewarding to me. With experience in technologies like React, Redux for front-end and state management, Jest and Storybook for testing and showcasing products, Postgres and MongoDB for databases, and AWS and Kubernetes for deployment and load balancing strategies, I am well-prepared for this role. I am eager to apply my expertise to make meaningful contributions to both the team and the company as a whole.
 
@@ -40,39 +30,21 @@ Throughout my career, I've actively pursued roles that enable me to support othe
 
 I would like to grow with a team where everyone is reaching their goals and for me that is to be a director of engineering. I know that there is a journey to reach that point, but I believe that if I can help people along the way the journey will feel short. A closer goal would be to become a principal and staff engineer, always growing with a team that not only has lots of synergy, but its a pleasure to work with everyday.
 
-============================================================================================================================
-
-I bring eight years of industry experience to the table. In my recent role at Microsoft, I played a pivotal role in **managing a React Component library**, where I worked alongside PMs, Design, and Engineering. Some of the things I learned in this experience were **planning and estimation, team collaboration, and career growth**. At Microsoft, I also **spearheaded the web component** efforts, that concluded in a robust library of 20 accessible, and tested components with variations.
-
-Before joining Microsoft, I was with **Principal Financial Group**, where I maintained an application that **handled the overview and modification of people's investment portfolio**. I learned about **Fintech companies**, how to **foster cross-team communication**, **offer mentorship**, and because of my **curiosity and wanting to help others**, I dove into the backend side of things.
-
-In my previous experience at **DesignUX**, I built a React Native mobile application for the sales force of a food whole seller. I had to **wear a lot of hats** because it was a small team. Some of them were **Product Manager, Engineering Manager, Analyst, teammate and engineer**. This experience was stressful, but also fun because I began to **see different points of view** from other disciplines.
-
-Lastly, where it all started DSB Mobile, I was the jack of all trades where I began setting the origin of my React experience with React Native.
-
-From a personal standpoint, **I consider myself to be a very curious person with a growth mindset**. During my free time I **read articles (Medium, Tumblr)**, **watch talks**, **create side projects** on tech that I either want to learn or new things that have come out. Really, an engineer that learns from every mistake and grows with like minded people.
-
-====================================================================
-I bring eight years of industry experience, having spearheaded web component efforts at Microsoft. Managed a React Component library and provided guidance in a support rotation, utilizing tools like React, React Router, Jest, and more. Prior to Microsoft, I successfully ported an application from XSLT to React at Principal Financial Group. At DesignUX, I led the implementation of a React Native mobile app, demonstrating organizational and leadership skills. My career began at DSB Mobile, where they developed React Native apps and worked on a collaborative micro services e-commerce project called Cosmetique, making informed technological decisions with load balancing and tests using Relic.io, Google page speeds and Jest. I also pursued cutting-edge technologies in side projects, including React Query, GraphQL, and Angular, while exploring deployment platforms like Netlify and Vercel.
-=====================================================================
-
 <!-- As I mentioned to David, I feel a connection with **Equi's values** of candid feedback, leaving the world a better place that we found it in and **its mission of achieving balance** by promoting the idea that money is just a tool to achieve success and happiness. -->
 
-## Why do you want to work at this company?
+### Why do you want to work at this company?
 
 optimism, persistance and humbleness
 
 ### Bullets
 
-- really looking forward to being part of a team that shares the same values
-- I find the technologies i would be diving into fun to utilize ---
-- ... equi's mission of bring balance and promote the idea
-- I'm genuinely excited about bringing my experience to the table and being a real asset to the team and the company as a whole.
+- I’m really excited to join a team that shares my values around collaboration, learning, and building things that genuinely help people.
 
-I'm eagerly looking forward to joining a team that shares my values of collaboration and community engagement.
-The chance to explore new technologies is both exhilarating and inspiring, and I'm excited to tackle new challenges head-on.
-Figma's commitment to making design accessible to everyone resonates with me deeply, as it promises to bring a sense of fulfillment through empowerment across industries.
-I'm genuinely thrilled about the prospect of bringing my experience to the team and making a meaningful impact on both the team's dynamics and the company's overall success.
+- The technologies I’d be working with are tools I actually enjoy using day to day, so the idea of diving deeper into them with a strong team is really energizing.
+
+- I’m motivated by missions that focus on creating real value for users and improving their day‑to‑day lives, and I’m drawn to companies that care about impact, craftsmanship, and people.
+
+- I’m genuinely excited about bringing my experience across front end, full stack, and architecture to the table, and being a real asset to both the team’s culture and the company’s long‑term goals.
 
 # Index
 
@@ -80,7 +52,6 @@ I'm genuinely thrilled about the prospect of bringing my experience to the team 
 - **Including them in execution phases** _how to work with designer_
 
 - ## [Analytical and Problem Solving](./Analytical_Solving.MD)
-
   - **Microsoft - Search Result Will/Nick/I/Design** _teamwork skills_ |
     - Collaboration, Problem solving, Awareness, Leadership
   - **Microsoft - Planning structure extract wisdom from others** _best constructive feedback_
